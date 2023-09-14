@@ -1,0 +1,15 @@
+STUDENT GPA REPORT
+
+====  =========  ====  =====   ========================
+GPA   StudentID  Load  Hours   Student_Name
+====  =========  ====  =====   ========================
+2.52  143841138    18    112   Jones, Oscar L
+1.99  411384112    12     67   Frugal, Miser X
+3.83  118113428     6     31   Sapp, Marilyn Q
+====  =========  ====  =====  ========================
+
+Number of Students = 3
+
+Average Student GPA  = 2.779
+
+Weighted Average GPA = 2.544
